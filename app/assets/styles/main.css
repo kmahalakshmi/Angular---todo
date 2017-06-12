@@ -1,0 +1,23 @@
+.hero__section
+{
+	position: absolute;
+	top: 20%;
+	left: 30%;
+}
+.unstyled
+{
+	list-style-type: none;
+}
+.done__true
+{
+	text-decoration: line-through;
+	color: grey;
+}
+.form__section
+{
+	padding-top: 10px;
+}
+.button__clear
+{
+	margin-top: 10px;
+}
